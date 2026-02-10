@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='600' viewBox='0 0 1000 600'>
+  <rect width='100%' height='100%' fill='#e6fbef' />
+  <text x='40' y='60' font-family='Arial' font-size='28' fill='#0f5132'>Eye On Safety — Personal Safety IoT</text>
+  <g fill='#dff6ea'>
+    <rect x='40' y='100' width='920' height='420' rx='12' fill='#eaf9ef' stroke='#c7f0d6'/>
+  </g>
+  <text x='60' y='150' font-family='Arial' font-size='16' fill='#166534'>Child safety · Senior monitoring · Healthcare alerts</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='600' viewBox='0 0 1200 600'>
+  <!-- Transparent background -->
+  <g fill='none'>
+    <rect x='40' y='40' width='1120' height='520' rx='10' fill='rgba(234,249,239,0.9)' stroke='rgba(199,240,214,0.9)' />
+  </g>
+  <text x='60' y='100' font-family='Arial' font-size='28' fill='#0f5132'>App & Dashboard Mockup</text>
+  <rect x='60' y='140' width='560' height='360' rx='8' fill='rgba(255,255,255,0.6)' />
+  <rect x='640' y='140' width='400' height='360' rx='8' fill='rgba(255,255,255,0.4)' />
+</svg>

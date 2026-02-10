@@ -1,0 +1,13 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='200' viewBox='0 0 1200 200'>
+  <!-- Transparent background -->
+  <g>
+    <rect x='40' y='40' width='200' height='120' rx='12' fill='rgba(234,249,239,0.9)' stroke='rgba(199,240,214,0.9)'/>
+    <rect x='320' y='40' width='200' height='120' rx='12' fill='rgba(234,249,239,0.9)' stroke='rgba(199,240,214,0.9)'/>
+    <rect x='600' y='40' width='200' height='120' rx='12' fill='rgba(234,249,239,0.9)' stroke='rgba(199,240,214,0.9)'/>
+    <rect x='880' y='40' width='200' height='120' rx='12' fill='rgba(234,249,239,0.9)' stroke='rgba(199,240,214,0.9)'/>
+  </g>
+  <text x='90' y='110' font-family='Arial' font-size='16' fill='#0f5132'>1. Understand</text>
+  <text x='370' y='110' font-family='Arial' font-size='16' fill='#0f5132'>2. Design</text>
+  <text x='650' y='110' font-family='Arial' font-size='16' fill='#0f5132'>3. Deploy</text>
+  <text x='930' y='110' font-family='Arial' font-size='16' fill='#0f5132'>4. Integrate</text>
+</svg>

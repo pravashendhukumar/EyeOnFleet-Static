@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='600' viewBox='0 0 1000 600'>
+  <!-- Transparent background -->
+  <text x='40' y='60' font-family='Arial' font-size='28' fill='#0f5132'>Eye On Fleet — Fleet Intelligence</text>
+  <g>
+    <rect x='40' y='100' width='920' height='420' rx='12' fill='rgba(234,249,239,0.9)' stroke='rgba(199,240,214,0.9)'/>
+  </g>
+  <text x='60' y='150' font-family='Arial' font-size='16' fill='#166534'>Real-time tracking · Route optimization · Driver monitoring</text>
+</svg>
